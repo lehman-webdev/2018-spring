@@ -90,6 +90,8 @@ Student grades in this course will be assigned as follows:
 
 ## Tentative Course Schedule
 
+May change to accommodate guest presenters & student needs.
+
 Lecture | Date | Content | Readings | Assigned | Due
 --|--|--|--|--|--
 0	| Jan. 27 | Intro | -- | -- | --
@@ -109,3 +111,28 @@ Lecture | Date | Content | Readings | Assigned | Due
 12 | May 7 | Query Performance, Caching, CDNs, Load balancing, DNS, cloud hosting provider overview | -- | -- | HW-10
 13 | May 14 | Project showcase, final review, where to go from here (design, back end, games, etc.), making websites without making websites (CMSs) | -- | -- | Project 3
 -- | TBA | -- | -- | -- | Final
+
+## Academic Integrity
+
+This course observed and upholds the [CUNY Policy on Academic Integrity](http://www.lehman.edu/lehman/about/policies_pdf/CUNYAcademicIntegrityPolicy.pdf) ([Accessible Plain Text](http://www.lehman.edu/lehman/about/policies_pdf/CUNYAcademicIntegrityPolicy.txt)). Each student in this course is expected to abide by this policy. Any work submitted by a student in this course for academic credit will be the student's own work. Collaboration is allowed where assignments are designated as group projects.
+
+You are encouraged to study together and to discuss information and concepts covered in lecture and the sections with other students. You can give "consulting" help to or receive "consulting" help from such students. However, this permissible cooperation should never involve one student having possession of a copy of all or part of work done by someone else, in the form of an e-mail, an e-mail attachment file, a diskette, or a hard copy. 
+
+Should copying occur, both the student who copied work from another student and the student who gave material to be copied will both automatically receive a zero for the assignment. Penalty for violation of this Code can also be extended to include failure of the course and University disciplinary action. 
+
+During examinations, you must do your own work. Talking or discussion is not permitted during the examinations, nor may you compare papers, copy from others, or collaborate in any way. Any collaborative behavior during the examinations will result in failure of the exam, and may lead to failure of the course and University disciplinary action.
+
+## Reasonable Accommodations and Academic Adjustments
+
+In compliance with [CUNY policy](http://www2.cuny.edu/about/administration/offices/legal-affairs/policies-procedures/reasonable-accommodations-and-academic-adjustments/) ([PDF](http://www2.cuny.edu/wp-content/uploads/sites/4/page-assets/about/administration/offices/legal-affairs/policies-procedures/reasonable-accommodations-and-academic-adjustments/Procedures-for-Implementing-Reasonable-Accommodations-9.21.2016.pdf)) and equal access laws, I am available to discuss appropriate academic accommodations that may be required for student with disabilities.
+
+## Inclusivity Statement
+
+We understand that our members represent a rich variety of backgrounds and perspectives. The Computer Science department is committed to providing an atmosphere for learning that respects diversity. While working together to build this community we ask all members to:
+*	share their unique experiences, values and beliefs
+*	be open to the views of others 
+*	honor the uniqueness of their colleagues
+*	appreciate the opportunity that we have to learn from each other in this community
+*	value each other's opinions and communicate in a respectful manner
+*	keep confidential discussions that the community has of a personal (or professional) nature 
+*	use this opportunity together to discuss ways in which we can create an inclusive environment in this course and across the CUNY community

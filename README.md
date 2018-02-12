@@ -1,13 +1,11 @@
-# Lehman Computer Science
-
 ## CMP 464 – Web Programming
 
-Spring, 2018\
-GI-231\
-Mondays 6:00-9:30 p.m.
+Computer Science Deparment, Lehman College\
+Spring, 2018
 
 **Instructor:** Ross Dakin\
-**Office Hours:** Mondays 5:00-6:00 p.m. (GI-231)\
+**Lecture:** Mondays 6:00-9:30 p.m. (GI-231)\
+**Office Hours:** Mondays 5-6 p.m. (GI-231)\
 **Grading:** Letter Grade
 
 ## Rationalle

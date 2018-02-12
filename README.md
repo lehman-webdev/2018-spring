@@ -87,3 +87,25 @@ Student grades in this course will be assigned as follows:
   - Intents:
     - Demonstrate knowledge of subject matter
     - Emulate live-coding component of real-world interviews
+
+## Tentative Course Schedule
+
+Lecture | Date | Content | Readings | Assigned | Due
+--|--|--|--|--|--
+0	| Jan. 27 | Intro | -- | -- | --
+1 | Feb. 5  | Slack, HTML, Editors, Dev Tools, CSS, URL composition, color representation, accessibility | HTML, CSS except forms | HW-1 | --
+-- | (skip week) | -- | -- | -- | --
+2 | Feb. 20 (Tues.) | CSS (classes, selectors, hover, breakpoints, embedded vs. linked, units of measure, box model, transitions, etc.), responsive design (media queries), design tools, design considerations (performance, cognition, etc.), browser discrepancies, git/GitHub, social media sharing (OpenGraph, etc.), design patterns/antipatterns | Git Book | HW-2, Project 1 | HW-1
+3 | Feb. 26 | Plain JavaScript (syntax, version history, closures, OOP methodologies, etc.), events | -- | HW-3 | HW-2
+4 | Mar. 5  | Project 1 showcase, jQuery, DOM, design standards (Material), design templates (Bootstrap), JS framework overview/trends/considerations, introduction to front-end JavaScript framework of choice, front-end logging | -- | HW-4 | HW-3, Project 1
+5 | Mar. 12 | AJAX, Consuming APIs (SOAP/REST, JSON, HTTP methods, response codes, MIME types), SPA overview, chosen JavaScript UI framework elaboration | -- | HW-5, Project 2 | HW-4
+6 | Mar. 19 | Midterm review, Advanced HTML5 features, visualization libraries, animation, error reporting, analytics | -- | -- | -- | HW-5
+7 | Mar. 26 | Catch up, Project 2 collaboration time | -- | HW-6 | Midterm
+-- | (skip week) | -- | -- | -- | --
+8 | Apr. 9 | Project 2 showcase, backend overview (web application architecture, languages and frameworks, MVC, LAMP, MEAN, etc.), introduction to backend framework of choice, server-side template rendering, logging | -- | HW-7 | HW-6, Project 2
+9 | Apr. 16 | Backend framework elaboration, databases (types, data modeling, CRUD, etc.), cloud hosting overview, cloud hosting setup | -- | HW-8, Project 3 | HW-7, Withdraw Deadline
+10 | Apr. 23 | Publishing APIs, Asynchronous actions (emails, queues, cron, etc.), Real-time web (server push, JSONP, Websockets) | -- | HW-9 | HW-8
+11 | Apr. 30 | Permissions (authentication/authorization, hasing/salting, etc.), Security (OWASP top 10), OAUTH, search | -- | HW-10 | HW-9
+12 | May 7 | Query Performance, Caching, CDNs, Load balancing, DNS, cloud hosting provider overview | -- | -- | HW-10
+13 | May 14 | Project showcase, final review, where to go from here (design, back end, games, etc.), making websites without making websites (CMSs) | -- | -- | Project 3
+-- | TBA | -- | -- | -- | Final

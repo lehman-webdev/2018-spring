@@ -87,5 +87,3 @@ Student grades in this course will be assigned as follows:
   - Intents:
     - Demonstrate knowledge of subject matter
     - Emulate live-coding component of real-world interviews
-    
-## Tentative Course Schedule

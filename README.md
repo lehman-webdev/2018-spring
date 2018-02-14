@@ -1,6 +1,6 @@
 # CMP 464 – Web Programming
 
-[Computer Science Deparment](http://lehman.edu/academics/mathematics-computer-science/index.php), Lehman College\
+[Department of Computer Science](http://lehman.edu/academics/mathematics-computer-science/index.php), Lehman College\
 Spring, 2018
 
 **Instructor:** Ross Dakin\

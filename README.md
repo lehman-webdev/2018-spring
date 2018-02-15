@@ -19,8 +19,7 @@ Any student of a technological field-and especially students of computer science
 As a result of participating in this course, students will be able to explain the various elements of the web ecosystem, demonstrate proficiency in the fundamental languages of web programming, and create web applications using contemporary tooling in preparation for a career involving web development. 
 
 ### Specific Learning Outcomes
-By the end of this course, students will: 
-...
+By the end of this course, students will be well-versed in the fundamentals of web application development. Emphasis is placed on developing a foundation in plain HTML, CSS, and JavaScript, including a knowledge of their historical revisions and browser adoption of their latest versions. Building on this foundation, client-side JavaScript frameworks are introduced; students will learn the concepts, syntax, and benefits of jQuery (as it is still widely used despite having fallen out of favor for newer frameworks) then learn a more contemporary front-end JavaScript framework (e.g. vue.js). Students should be able to develop aesthetically pleasing single place applications (SPAs) by this juncture in the course. The course will then introduce back-end web application constructs such as databases and application servers. By the completion of the course, students will be able to develop a “full stack” web application and discuss the benefits of various architectures, design patterns, and elements of production-readyness. Specific concepts and technologies are highlighted in the course schedule below.
 
 ## Format and Procedures
 This course meets once per week for a 3.5-hour period without an additional lab component. This course is intended to reflect industry norms as much as possible; to that end, project delivery and collaboration are emphasized over attendance and summative assessment.

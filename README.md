@@ -94,11 +94,11 @@ Lecture | Date | Content | Readings | Assigned | Due
 0	| Jan. 27 | Intro | -- | -- | --
 1 | Feb. 5  | Slack, HTML, Editors, Dev Tools, CSS, URL composition, color representation, accessibility | HTML (except forms) | -- | --
 -- | (skip week) | -- | -- | -- | --
-2 | Feb. 20 (Tues.) | CSS (classes, selectors, hover, breakpoints, embedded vs. linked, units of measure, box model, transitions, etc.), responsive design (media queries), design tools, design considerations (performance, cognition, etc.), browser discrepancies, git/GitHub, social media sharing (OpenGraph, etc.), design patterns/antipatterns | CSS (except forms) | HW-1, HW-2 | --
-3 | Feb. 26 | Plain JavaScript (syntax, version history, closures, OOP methodologies, etc.), events | Plain JavaScript (except OOP, XHR) | HW-3, Project 1 | HW-1, HW-2
-4 | Mar. 5  | Project 1 showcase, jQuery, DOM, design standards (Material), design templates (Bootstrap), JS framework overview/trends/considerations, introduction to front-end JavaScript framework of choice, front-end logging | JavaScript (OOP) | HW-4 | HW-3
-5 | Mar. 12 | AJAX, Consuming APIs (SOAP/REST, JSON, HTTP methods, response codes, MIME types), SPA overview, chosen JavaScript UI framework elaboration | *TBD* | HW-5, Project 2 | HW-4, Project 1
-6 | Mar. 19 | Midterm review, Advanced HTML5 features, visualization libraries, animation, error reporting, analytics | -- | -- | HW-5
+2 | Feb. 20 (Tues.) | CSS (classes, selectors, hover, breakpoints, embedded vs. linked, units of measure, box model, transitions, etc.), responsive design (media queries), design tools, design considerations (performance, cognition, etc.), browser discrepancies, git/GitHub, social media sharing (OpenGraph, etc.), design patterns/antipatterns | CSS (except forms) | HW-1 | --
+3 | Feb. 26 | Plain JavaScript (syntax, version history, closures, OOP methodologies, etc.), events | Plain JavaScript (except OOP, XHR) | HW-2 (EC) | --
+4 | Mar. 5  | Project 1 showcase, jQuery, DOM, design standards (Material), design templates (Bootstrap), JS framework overview/trends/considerations, introduction to front-end JavaScript framework of choice, front-end logging | JavaScript (OOP) | HW-3, Project 1 | HW-1, HW-2 (EC)
+5 | Mar. 12 | AJAX, Consuming APIs (SOAP/REST, JSON, HTTP methods, response codes, MIME types), SPA overview, chosen JavaScript UI framework elaboration | *TBD* | HW-5, Project 2 | --
+6 | Mar. 19 | Midterm review, Advanced HTML5 features, visualization libraries, animation, error reporting, analytics | -- | Project 2 | HW-3, Project 1
 7 | Mar. 26 | Catch up, Project 2 collaboration time | *TBD* | HW-6 | Midterm
 -- | (skip week) | -- | -- | -- | --
 8 | Apr. 9 | Project 2 showcase, backend overview (web application architecture, languages and frameworks, MVC, LAMP, MEAN, etc.), introduction to backend framework of choice, server-side template rendering, logging | *TBD* | HW-7 | HW-6, Project 2
